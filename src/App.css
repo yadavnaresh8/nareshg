@@ -1,0 +1,263 @@
+.nav-link{
+  color: white;
+}
+.nav-link:hover{
+  color: white;
+}
+.pay2 span{
+  background-color: yellow;
+  width: 20%;
+  padding: 14px;
+  text-align: center;
+  border-radius: 20px;
+  }
+.ho{
+  background-color: red;
+  height: 40px;
+  width: 58px;
+  text-align: center;
+  border-radius: 10px;
+}
+.fo i{
+color: aqua;
+}
+.fo i:hover{
+background-color: red; 
+padding: 5px;
+border-radius: 10px;
+}
+.fi i{
+  color: aqua;
+}
+.fi i:hover{
+  background-color: red; 
+padding: 5px;
+border-radius: 10px;
+}
+.th:hover{
+  background-color: red; 
+  padding: 5px;
+  border-radius: 10px;
+}
+.se:hover{
+  background-color: red; 
+padding: 5px;
+border-radius: 10px;
+}
+.pay2 a{
+text-decoration: none;
+color: orange;
+}
+.pay{
+  padding-top: 50px;
+}
+.bg{
+  background-color: rgb(42, 19, 2);
+  width: 100%;
+  height:3200px;
+}
+.line{
+  background-color: white;
+  width: 100%;
+  height: 3px;
+}
+.line2{
+  background-color: white;
+  width: 100%;
+  height: 3px;
+}
+.line3{
+  background-color: white;
+  width: 100%;
+  margin-top: 70px;
+  height: 3px;
+}
+.line4{
+  background-color: white;
+  width: 100%;
+  margin-top: 20px;
+  height: 3px;
+}
+.meals{
+  height: 100px;
+  text-align: center;
+}
+.meals input{
+  margin-top: 20px;
+}
+.meals span{
+  color: white;
+  font-weight: bold;
+  
+}
+.latest{
+  text-align: center;
+}
+.latest h1{
+ font-size: 20px;
+ font-weight: bold;
+}
+.lat1 p{
+  color:orange;
+}
+.lat1 p:hover{
+  color: rgb(243, 243, 112);
+}
+.popular {
+  text-align: center;
+}
+.popular h1{
+  font-size: 20px;
+  padding-top: 30px;
+}
+.random{
+  text-align: center;
+}
+.random h1{
+  font-size: 20px;
+  font-weight: bold;
+}
+.browse h1{
+font-size: 20px;
+color: white;
+margin-top: 50px;
+}
+.browse a{
+  text-decoration: none;
+  font-size: 15px;
+  color: orange;
+  font-weight: bold;
+  padding-left: 7px;
+}
+.browse span{
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+}
+.foot{
+  width: 100%;
+  height: 100px;
+}
+.foot1{
+  margin-top: 30px;
+}
+.foot1 a{
+  text-decoration: none;
+  color: white;
+}
+.fds{
+  text-align: center;
+}
+.food p{
+  color: orange;
+}
+.food p:hover{
+  color: yellow;
+}
+.gd{
+  background-color: rgb(83, 37, 5);
+  height: 1400px;
+  width: 100%;
+}
+.fd h1{
+  color: white;
+  margin-top: 50px;
+  font-size: 25px;
+}
+.fd img{
+margin-top: 50px;
+}
+#hari a{
+  color: orange;
+}
+.fredo{
+  background-color: rgb(50, 22, 2);
+  height: 1000px;
+  width: 100%;
+}
+.bros{
+  text-align: center;
+}
+.bro{
+  transform: translateX(-270px);
+}
+#bro a{
+  color: orange;
+}
+.dgs{
+  background-color: rgb(83, 37, 5);
+  height: 1300px;
+  width: 100%;
+}
+@media screen and  (max-width:768px){
+  #foot{
+    width: 100%;
+    height: 220px;
+  }
+  .bro{
+    text-align: center;
+  }
+  #bros{
+    transform: translateX(0px);
+  }
+  #come{
+    transform: translateX(0px);
+  }
+  #bro{
+    transform: translateX(0px);
+  }
+  #bg{
+    background-color: rgb(83, 37, 5);
+    height: 13500px;
+    width: 100%;
+  }
+  #gd{
+    background-color: rgb(83, 37, 5);
+    height: 1700px;
+    width: 100%;
+  }
+ .dgs{
+  background-color: rgb(83, 37, 5);
+    height: 2100px !important;
+    width: 100%;
+ }
+ 
+
+}
+@media screen and  (max-width:988px){
+
+  .foot{
+    width: 100%;
+    height: 150px;
+  }
+ .bro{
+  transform: translateX(-140px);
+ }
+ .bros{
+  transform: translateX(-90px);
+ }
+  .bg{
+    background-color: rgb(42, 19, 2);
+    width: 100%;
+    height:5600px;
+  }
+  .come{
+    transform: translateX(-120px);
+  }
+  .gd{
+    background-color: rgb(83, 37, 5);
+    height: 900px;
+    width: 100%;
+  }
+  .dg{
+    background-color: rgb(83, 37, 5);
+    height: 1100px;
+    width: 100%;
+  }
+  #dgs{
+    background-color: rgb(83, 37, 5);
+      height: 1100px;
+      width: 100%;
+   }
+}
+
